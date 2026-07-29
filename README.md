@@ -12,6 +12,9 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 ---
 
 ## 🖼️ Dashboard Architecture & Core Views
+### 1. OverView
+
+![Uploading overview.gif…]()
 
 ### 1. Finance View
 * **Focus:** Profitability & P&L Statement breakdown.
@@ -51,3 +54,5 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 * **UI/UX Features:** Navigation tabs, custom filter sidebar (Year, Quarter, Region, Store, Channel), dynamic tooltips, and bookmark toggles.
 
 ---
+
+
