@@ -1,6 +1,6 @@
 # 📊 AtliQ Hardware — Business Insight 360 (Power BI Suite)
 
-An end-to-end interactive Power BI reporting solution designed to provide **360-degree visibility** across AtliQ Hardware's key business functions: **Finance, Sales, Marketing, Supply Chain, and Executive Management**.
+An end-to-end interactive Power BI reporting solution designed to provide **360-degree visibility** across AtliQ Hardware's key business functions: **Finance, Sales, Marketing, Supply Chain, and Executive Management**.AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
 
 ---
 
@@ -8,6 +8,15 @@ An end-to-end interactive Power BI reporting solution designed to provide **360-
 AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracking regional profitability, inventory forecasting errors, and overall margin trends across B2B retail, e-commerce, and direct channels. 
 
 **Objective:** Develop an interactive executive dashboard suite to deliver real-time operational insights, streamline decision-making, and track variance against targets and previous year performance.
+In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
+
+1. Robust Data Modeling
+2. User-empathetic Report design
+3. Drillable Insights
+
+**************************
+Data modelling involving 10+ tables
+<img width="720" height="450" alt="Project_Screenshot2_updated" src="https://github.com/user-attachments/assets/d1345136-71e1-49b2-84d6-8498a82b5dcc" />
 
 ---
 
@@ -65,6 +74,16 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 * **Data ETL:** Power Query transformation, unpivoting datasets, and data hygiene cleaning.
 * **UI/UX Features:** Navigation tabs, custom filter sidebar (Year, Quarter, Region, Store, Channel), dynamic tooltips, and bookmark toggles.
 
----
+I learned the following things in this project
+
+1. Power Query (Basic and Advanced Operations) 
+2. Basic and complex DAX formulas
+3. Data modelling involving 10+ tables
+4. Choosing the right visuals and formatting
+5. Dashboard designing principles
+6. Using bookmarks
+7. Deploying in Power BI service
+8. Stakeholder Feedback Implementation
+9. Sales, Marketing, Finance & Supply Chain metrics
 
 
