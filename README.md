@@ -16,6 +16,7 @@ In this project, the goal is to be one report which could be used by stakeholder
 
 **************************
 Data modelling involving 10+ tables
+
 <img width="720" height="450" alt="Project_Screenshot2_updated" src="https://github.com/user-attachments/assets/d1345136-71e1-49b2-84d6-8498a82b5dcc" />
 
 ---
