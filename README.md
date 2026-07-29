@@ -13,8 +13,9 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 
 ## 🖼️ Dashboard Architecture & Core Views
 ### 1. OverView
+<img width="2282" height="1286" alt="overview" src="https://github.com/user-attachments/assets/43ff8384-2546-4f76-95e5-26c394f8d8b4" />
 
-![Uploading overview.gif…]()
+
 
 ### 1. Finance View
 * **Focus:** Profitability & P&L Statement breakdown.
@@ -27,21 +28,29 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 ### 2. Sales View
 * **Focus:** Customer and product performance.
 * **Key Metrics:** Net Sales, Gross Margin Variance.
-* **Visuals:** Scatter plot performance matrix and customer margin performance tables.
+* **Visuals:**
+* <img width="2300" height="1290" alt="image" src="https://github.com/user-attachments/assets/fa17fc2b-47d8-4972-8d2e-77c349f0d215" />
+
 
 ### 3. Marketing View
 * **Focus:** Market performance and product region dynamics.
 * **Key Metrics:** Net Sales vs Gross Margin bifurcation, Net Profit %.
-* **Visuals:** Market performance scatter plot and product segment breakdown.
+* **Visuals:**
+  <img width="2298" height="1290" alt="image" src="https://github.com/user-attachments/assets/e3e1fbfa-f16d-4ddd-8046-0752851297f8" />
+
 
 ### 4. Supply Chain View
 * **Focus:** Inventory and demand forecasting performance.
 * **Key Metrics:** Forecast Accuracy %, Net Error, Absolute Error (ABS Error).
-* **Visuals:** Monthly accuracy trends and key metrics by customer/product segment.
+* **Visuals:**
+  <img width="2290" height="1294" alt="image" src="https://github.com/user-attachments/assets/80ec34b5-6368-4a91-8280-56ccefb05444" />
+
 
 ### 5. Executive View
 * **Focus:** Consolidated strategic overview for senior management.
-* **Key Metrics:** Market Share trends, Revenue by Division, Revenue by Channel, Top 5 Customers, and Top 5 Products.
+* **Key Metrics:**
+  <img width="2302" height="1296" alt="image" src="https://github.com/user-attachments/assets/c09f26eb-9dc1-4f8d-b1e1-dcde826e9002" />
+
 
 ---
 
