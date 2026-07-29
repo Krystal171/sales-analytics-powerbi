@@ -51,19 +51,3 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 * **UI/UX Features:** Navigation tabs, custom filter sidebar (Year, Quarter, Region, Store, Channel), dynamic tooltips, and bookmark toggles.
 
 ---
-
-## 📁 Repository Structure
-
-```text
-├── data/
-│   ├── dim_customer.csv
-│   ├── dim_product.csv
-│   └── fact_sales_monthly.csv
-├── screenshots/
-│   ├── finance_view.png
-│   ├── sales_view.png
-│   ├── marketing_view.png
-│   ├── supply_chain_view.png
-│   └── executive_view.png
-├── AtliQ_Business_Insight_360.pbix
-└── README.md
