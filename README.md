@@ -19,7 +19,10 @@ AtliQ Hardware, a global computer hardware manufacturer, faced challenges tracki
 ### 1. Finance View
 * **Focus:** Profitability & P&L Statement breakdown.
 * **Key Metrics:** Net Sales, Gross Margin %, Net Profit %, Gross Margin vs Target / Last Year.
-* **Visuals:** Full P&L decomposition matrix and monthly sales trend line.
+* **Visuals:**
+  <img width="2294" height="1296" alt="image" src="https://github.com/user-attachments/assets/f6ba8bfa-e9d1-42c1-b193-e2dd0d328d94" />
+
+  
 
 ### 2. Sales View
 * **Focus:** Customer and product performance.
